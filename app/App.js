@@ -33,7 +33,7 @@ export default class App extends Component {
   
       setTimeout(() => {
         SplashScreen.hide()
-      }, 10000)
+      }, 2000)
 
       if (Platform.OS === 'android') {
         // 添加返回键监听

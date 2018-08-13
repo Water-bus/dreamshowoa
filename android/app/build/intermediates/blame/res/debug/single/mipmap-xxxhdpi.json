@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/yancx/workspace/git/dreamshowoa/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/launch_screen.png",
+        "source": "/Users/yancx/workspace/git/dreamshowoa/android/app/src/main/res/mipmap-xxxhdpi/launch_screen.png"
+    },
+    {
+        "merged": "/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/yancx/workspace/git/dreamshowoa/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]

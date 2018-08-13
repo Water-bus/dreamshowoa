@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/.android/build-cache/1c2876a72a1e2b8bed2dc96d27662e3d954df0f0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/classes_278e30d16acf93b4fe5c590b89bc6c980ae57009.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/.android/build-cache/54b100a73e92c968d365e033c92688e264e296a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/classes_1bf2afbc747e89e2312760e8a161a55654070d78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_2766274319f7bfd84a5e7ae379f4f68da6b669a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_87570324559e513a8ddb7450d34b1b88df964c61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_c2e25123759416796f56ef1815dd0fa734247854.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_bc19b774473de7a0cac763f61ddc3d690009cee1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/.android/build-cache/2750dd4ce8919a71d57d852eaf83a3d4f1e1665b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/classes_c2ecd2d3a1c48f64bf5e5dd692288154aa966caa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/.android/build-cache/ec058ace11cebcdba9344577c0a2a10df95ef9b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/classes_252ec75d375e2e3577f2cd3c93c82cd1e4cbdf87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_4e2644e48d4559c086cb1da9f331c9037fb11711.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/.android/build-cache/c87feef32df8b7e23f6ce5f68893df7420ae75da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/classes_1aff10547499f4d36d52c8788daf0342b34846ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/.android/build-cache/55a549e8e73ff2f30d751234efed7e24e1a7908b/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_87f71f48a7875143116bfcd523d46daa1ff15363.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/workspace/git/dreamshowoa/node_modules/react-native-orientation/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="bc11e94900773c70cd9ff18034ade61aa089f436">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/classes_d3098431f04323ae1e7e02ebd579f5457dfdab5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/.android/build-cache/cb8279679617020b1d29bcca33abad04b61ac48c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/classes_65f29e7bba8b159a916da4c78fc8dbf0fcd78d89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_6e192f405bba9e4e5f3a82ee91044fc89d9ed94b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/.android/build-cache/bfd1095b645d6050d2813a7acb19aba10f5a924c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/classes_33e6dc50c0dbfb1ae65c4b64d53eedc0866f659a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_6b14f303e4dd4f7c5f260a090f8d373c5bd4d908.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_a8eb186587e0eaf2af2abad136f3f48b4b94062f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/.android/build-cache/a9ffe871df06fb817d29bd904c9168f2d293568b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/classes_93ea020a8bb89975a8feac6891cf3313e223173c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/.android/build-cache/55a549e8e73ff2f30d751234efed7e24e1a7908b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/classes_95d8e1e2f891ba613d43303731685497d0f028aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/.android/build-cache/ca16acd066b18b49ea74841da64e823f37cb3a88/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/classes_22d3586b6282e0410bcb5dd1643ace56f818f8d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/.android/build-cache/029b51f58aaedd15d83da0597fee334c83f49621/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/classes_25b9cca4fdc79c0494cec622027960e0301bb05f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/.android/build-cache/1561ff1b571bd5e9f0ec9cb05b2b87939adf6abc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/classes_1e39debe9c0eab926a154ade888b7007ac8188d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_9e8a0f5f6f0c808e65234de8d139e4eab64a1122.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/workspace/git/dreamshowoa/node_modules/react-native-splash-screen/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="81545e78a5aef654b2e0aac62b2be5ad8ad7b908">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/classes_2d724e54e9035ffdd5d1cbbc5b418103787daedc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/.android/build-cache/c46207b2a7030b841f4b9e674943e1f5ac3ad37f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/classes_f24b9e4ae5f46c54e77f1ff265ba1772511dcecc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/.android/build-cache/53b51a49234fa850b4c3d9180f642493e00c3de7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/classes_b7414a410dd76c6360d59f3de038f8bc70a3a345.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_f558a8d20883685dae5f60942aac0e460a1b6543.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/.android/build-cache/a008d6dc7e4ddb8f508cfc15ae80989d26d4935f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/classes_778c496bae7c923a0dbab5ac68ce1c24c5023a23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/.android/build-cache/ad95deaf555cd1f85eb8ba6e657cf8b4af5d0b44/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/classes_f7488727c0ceb7b187b1fe8fdb8996ed5f40de29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/.android/build-cache/944fed17554152832823df2423d7a4ed65f2c52b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/classes_bc9075eb1364c6d29c99436aa08d0ce2a397c38a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/.android/build-cache/a5e42c4db5bcb00a660be00c6e3bc7b294554e72/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/classes_351db2567a690f9c6158cdcd18e4c9c0f0ea449d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yancx/.android/build-cache/2221e8e3ecbbd5edabe2b7290a83fba3d60dcfa3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/yancx/workspace/git/dreamshowoa/android/app/build/intermediates/pre-dexed/debug/classes_d0f18d7efe09ed412f99333e7f13dd9262e4da5c.jar" />
+    </item>
+
+</items>
